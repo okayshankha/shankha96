@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shankha96
 - 👀 I’m interested in Working on NodeJS, Python
 - 🌱 I’m currently learning and working on NodeJS
-- ❤️‍ Blog: branchotfix.com
+- ❤️‍ Blog: https://branchotfix.com
 
 - 📫 How to reach me ...
   - Email: shankhascm96@gmail.com
